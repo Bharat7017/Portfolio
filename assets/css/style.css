@@ -598,7 +598,16 @@ border-radius: 10px;
   margin-bottom: 0;
   text-align: left;
 }
-
+.resume{background-color: #bfb05a; 
+  border: none;
+  padding: 10px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 10px;
+  font-weight: bold;
+border-radius: 10px;
+}
 /*--------------------------------------------------------------
 # Services
 --------------------------------------------------------------*/
